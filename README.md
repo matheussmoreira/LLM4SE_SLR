@@ -1,2 +1,2 @@
 # LLM4SE_SLR
-Projeto Final
+Recursos utilizados na elaboração do meu Projeto Final da PUC-Rio como requisito para a obtenção do título de Bacharel em Ciência da Computação.
